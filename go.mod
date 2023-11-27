@@ -3,7 +3,7 @@ module github.com/hainenber/hetman
 go 1.21
 
 require (
-	github.com/IBM/sarama v1.41.3
+	github.com/IBM/sarama v1.42.1
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/fatih/structs v1.1.0
 	github.com/fsnotify/fsnotify v1.7.0
