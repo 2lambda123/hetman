@@ -14,7 +14,7 @@ require (
 	github.com/knadh/koanf/v2 v2.0.1
 	github.com/nxadm/tail v1.4.11
 	github.com/rs/zerolog v1.31.0
-	github.com/samber/lo v1.38.1
+	github.com/samber/lo v1.39.0
 	github.com/satyrius/gonx v1.4.0
 	github.com/spf13/cobra v1.8.0
 	github.com/stretchr/testify v1.8.4
