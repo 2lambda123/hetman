@@ -18,7 +18,7 @@ require (
 	github.com/satyrius/gonx v1.4.0
 	github.com/spf13/cobra v1.8.0
 	github.com/stretchr/testify v1.8.4
-	github.com/tidwall/gjson v1.17.0
+	github.com/tidwall/gjson v1.17.1
 	github.com/tidwall/sjson v1.2.5
 	github.com/valyala/fastjson v1.6.4
 	go.opentelemetry.io/otel v1.21.0
